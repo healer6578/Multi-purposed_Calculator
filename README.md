@@ -92,13 +92,10 @@ if operator == "1":
         return None
 ```
 ---
-### Loop
+### Looping and If user wants to quit calculation
 ```
 while True:
     operator = input("Operator to use (1 for +, 2 for -, 3 for *, 4 for /, 5 for √, 6 for **, q to quit): ")
-```
-### Quit
-```
     if operator.lower() == 'q':
         print("Exiting calculator.")
         break  # Exit the loop if 'q' is entered
