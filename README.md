@@ -1,8 +1,8 @@
-# Simple Math Calculator
+# Multi-purposed Math Calculator
 
-This Calculator can help new programmers understand basic math operators in python.
+This Calculator can help new coders understand basic math operators in python.
 
-Also help new-programmers to get a easier understanding of basic math coding.
+Also help new-programmers to get a easier understanding of basic math in coding.
 
 ## Inputs (1, 2, 3, 4, 5, 6) and its following Operation/function.
 Inputting 1 : for (Addition/Sum) ➕
