@@ -19,9 +19,6 @@ def calculate(num1, operator, num2):
     num1 = float(num1)
     num2 = float(num2)
 ```
-### Check the operator (1,2,3,4,5 or 6), and perform the corresponding operation.
-```
-```
 ### Addition:
 ```
 if operator == "1":
