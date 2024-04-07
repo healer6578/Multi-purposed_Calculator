@@ -89,4 +89,3 @@ while True:
     else:
         print("Invalid operator")
 ```
-
