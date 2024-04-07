@@ -1,4 +1,4 @@
-# Multi-purposed Math Calculator
+# Simple Math Calculator
 
 This Calculator can help new coders understand basic math operators in python.
 
