@@ -88,4 +88,3 @@ while True:
             print(f"√{num1} = {result}")
     else:
         print("Invalid operator")
-```
