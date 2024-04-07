@@ -5,33 +5,8 @@ This Calculator can help new coders understand basic math operators in python.
 Also help new-programmers to get a easier understanding of basic math in coding.
 
 ## Inputs (1, 2, 3, 4, 5, 6) and its following Operation/function.
-Inputting 1 : for (Addition/Sum) ➕
-
-Example: _x + y_
-
-Inputting 2 : for (Subtraction) ➖
-
-Example: _x - y_
-
-Inputting 3 : for (Multiplication) ✖️
-
-Example: _x * y_
-
-Inputting 4 : for (Division) ➗
-
-Example: _x / y_
-
-Inputting 5 : for (Square root)
-
-Example: _math.sqrt(x)_
-
-Inputting 6 : for (Power)  
-
-Example: _x ** y_
 
 ---
-
-"==" means "equals too"
 
 ### Importing nessesary libraries
 ```
