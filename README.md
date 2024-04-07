@@ -1,8 +1,6 @@
 # Simple Math Calculator
 
-This Calculator can help new coders understand basic math operators in python.
-
-Also help new-programmers to get a easier understanding of basic math in coding.
+This Calculator can help new coders understand basic math operators in python. This can also help new-programmers to get a easier understanding of basic math in coding.
 
 ## Inputs (1, 2, 3, 4, 5, 6) and its following Operation/function.
 
